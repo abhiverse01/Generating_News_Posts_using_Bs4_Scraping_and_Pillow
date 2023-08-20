@@ -1,0 +1,4 @@
+requests~=2.31.0
+beautifulsoup4~=4.12.2
+Pillow~=10.0.0
+setuptools~=68.0.0
